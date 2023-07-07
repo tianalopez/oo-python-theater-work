@@ -1,7 +1,7 @@
 # Theater Work
 
   
-***
+
 
 ## Introduction
 
@@ -11,6 +11,13 @@ An actor may only `Audition` for one `Role`, while a `Role` may have many
 `Auditions` for it!
 
 ![one to many](https://curriculum-content.s3.amazonaws.com/phase-3/active-record-theater-work/one_to_many.png)
+
+
+## Setup
+
+`pipenv install` will make sure we have ipdb included in our environment.  
+`pipenv shell` allows us access to that environment.  
+
 
 ## Getting started
 
@@ -33,7 +40,7 @@ An actor may only `Audition` for one `Role`, while a `Role` may have many
 
 - Through this `debug.py` file, we've provided to you a console that you can use to test your code. To enter a console session, run `python debug.py` from the command line. You'll be able to test out the functionality that you write there.
 
----
+
 
 ## Audition
 
